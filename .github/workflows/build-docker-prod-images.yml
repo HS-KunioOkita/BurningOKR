@@ -1,27 +1,12 @@
 name: build docker-prod-images
 
 on:
-  push:
-    branches: [master]
-  workflow_dispatch:
+  release:
+    types: [created]
 
 jobs:
-  get-version:
-    runs-on: ubuntu-latest
-    outputs:
-      version: ${{ steps.read-version.outputs.version }}
-
-    steps:
-      - uses: actions/checkout@v3
-      - name: Remove Windows file endings
-        run: vi version.txt -c "set ff=unix" -c ":wq"
-      - name: Read package version
-        id: read-version
-        run: echo version=$(head -n 1 version.txt) >> $GITHUB_OUTPUT
-
   build-backend-image-prod:
     runs-on: ubuntu-latest
-    needs: get-version
     steps:
       - uses: actions/checkout@v3
       - name: Set up QEMU
@@ -37,6 +22,12 @@ jobs:
           registry: ghcr.io
           username: ${{ github.repository_owner }}
           password: ${{ secrets.GITHUB_TOKEN }}
+      - name: Set version
+        uses: actions/github-script@v6
+        id: set-version
+        with:
+          result-encoding: string
+          script: return context.payload.release.tag_name.replace('v', '')
       - name: Build
         uses: docker/build-push-action@v3
         with:
@@ -46,11 +37,10 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/burningokr/b-okr-backend:latest
-            ghcr.io/burningokr/b-okr-backend:${{needs.get-version.outputs.version}}
+            ghcr.io/hs-kuniookita/b-okr-backend:latest
+            ghcr.io/hs-kuniookita/b-okr-backend:${{steps.set-version.outputs.result}}
   build-frontend-image-prod:
     runs-on: ubuntu-latest
-    needs: get-version
     steps:
       - uses: actions/checkout@v3
       - name: Update version number in package.json
@@ -69,6 +59,12 @@ jobs:
           registry: ghcr.io
           username: ${{ github.repository_owner }}
           password: ${{ secrets.GITHUB_TOKEN }}
+      - name: Set version
+        uses: actions/github-script@v6
+        id: set-version
+        with:
+          result-encoding: string
+          script: return context.payload.release.tag_name.replace('v', '')
       - name: Build
         uses: docker/build-push-action@v3
         with:
@@ -78,5 +74,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/burningokr/b-okr-frontend:latest
-            ghcr.io/burningokr/b-okr-frontend:${{needs.get-version.outputs.version}}
+            ghcr.io/hs-kuniookita/b-okr-frontend:latest
+            ghcr.io/hs-kuniookita/b-okr-frontend:${{steps.set-version.outputs.result}}
