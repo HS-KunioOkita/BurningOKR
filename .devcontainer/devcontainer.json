@@ -1,0 +1,23 @@
+{
+    "name": "burningokr-devcontainer",
+	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "customizations": {
+        "vscode": {
+            "settins":{},
+            "extenstions": [
+                "vscjava.vscode-java-pack",
+                "vscjava.vscode-gradle",
+                "vscjava.vscode-java-debug",
+                "Angular.ng-template",
+                "xabikos.JavaScriptSnippets",
+                "dbaeumer.vscode-eslint"
+            ]
+        }
+    },
+	"forwardPorts": [9000, 4200, 8080],
+    "appPorts": ["4200:4200"],
+    "remoteUser": "vscode",
+    "postCreateCommand": "java -version"
+}
