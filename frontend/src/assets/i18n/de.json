@@ -525,7 +525,8 @@
 			"bad-progress": "Das Objective macht einen schlechten Fortschritt",
 			"expand-objective": "Objective aufklappen",
 			"good-progress": "Das Objective macht einen guten Fortschritt",
-			"progress-can-be-better": "Das Objective sollte den Fortschritt verbessern"
+			"progress-can-be-better": "Das Objective sollte den Fortschritt verbessern",
+			"subordinate": "Umfang der untergeordneten Ziele"
 		}
 	}
 }

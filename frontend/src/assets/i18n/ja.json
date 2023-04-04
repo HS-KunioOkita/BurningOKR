@@ -525,7 +525,8 @@
 			"bad-progress": "The objective is making bad progress",
 			"expand-objective": "Expand Objective",
 			"good-progress": "The Objective makes good progress",
-			"progress-can-be-better": "The objective should improve progress"
+			"progress-can-be-better": "The objective should improve progress",
+			"subordinate": "下位のObjectiveの数"
 		}
 	}
 }
