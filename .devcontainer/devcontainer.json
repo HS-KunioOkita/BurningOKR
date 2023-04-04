@@ -12,12 +12,17 @@
                 "vscjava.vscode-java-debug",
                 "Angular.ng-template",
                 "xabikos.JavaScriptSnippets",
-                "dbaeumer.vscode-eslint"
+                "dbaeumer.vscode-eslint",
+                "VisualStudioExptTeam.vscodeintellicode",
+                "VisualStudioExptTeam.intellicode-api-usage-examples",
+                "redhat.java",
+                "vscjava.vscode-maven",
+                "vscjava.vscode-java-dependency",
+                "vscjava.vscode-java-test"
             ]
         }
     },
 	"forwardPorts": [9000, 4200, 8080],
-    "appPorts": ["4200:4200"],
     "remoteUser": "vscode",
     "postCreateCommand": "java -version"
 }
