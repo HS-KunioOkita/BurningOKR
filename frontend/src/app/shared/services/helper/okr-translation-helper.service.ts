@@ -24,6 +24,7 @@ export class OkrTranslationHelperService {
   initializeTranslationOnStartup(): void {
     // this language will be used as a fallback when a translation isn't found in the current language
     this.translateService.setDefaultLang('en');
+    this.translateService.addLangs(['en', 'de', 'ja']);
     // the lang to use, if the lang isn't available, it will use the current loader to get them
     this.changeToLanguage(this.getInitialLanguage());
     this.currentLanguage$ = this.translateService.onLangChange.pipe(map(lang => lang.lang));

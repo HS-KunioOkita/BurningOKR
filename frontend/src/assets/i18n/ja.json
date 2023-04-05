@@ -1,532 +1,938 @@
 {
-	"add-child-unit-button": {
-		"add-new-child-unit": "Create substructure",
-		"demo-privacy-policy": "<div class=\"container footer-margin\">\n\n  <div class=\"content-container\">\n    <h1>DATA PROTECTION</h1>\n\n    <div class=\"content-container\">\n      With this statement, we inform you about aspects relevant to data protection as well as the measures used to protect your rights. Brockhaus AG complies with the requirements of the German Federal Data Protection Act (BDSG) and the EU General Data Protection Regulation (EU-DSGVO).\n    </div>\n  </div>\n\n  <div class=\"content-container\">\n    <h3>1. COLLECTION AND USE OF PERSONAL DATA</h3>\n\n    <div class=\"content-container\">\n      <h4>1.1 Basic</h4>\n      The sole purpose of your data is to provide you with the most user-friendly, practical and secure Internet service possible. Personal data includes all information about personal or factual circumstances of an identified or identifiable natural person, e.g. name, address, contact details, IP addresses, data volumes transferred, etc.\n    </div>\n\n    <div class=\"content-container\">\n      <h4>1.2 Legal basis</h4>\n      a) The provision of this website with products and services: Contract initiation or contract fulfillment<br>\n      b) Requests by mail, email or fax to us: contract initiation or fulfillment<br>\n      c) Links to other offers or evaluation of accesses: legitimate interest.\n    </div>\n\n    <div class=\"content-container\">\n      <h4>1.3 Automatic processing by website operation</h4>\n      The websites are operated by a provider in Western Europe (Frankfurt, Germany), which in turn stores the accesses to the system in so-called server logs for the operation of the web offer. In doing so, the following data is usually collected: IP addresses, timestamps of accesses, names of web pages, amounts of data transferred, logouts or terminations, browser types, information from the operating system, referrer URLs. This data is not stored or evaluated by us. In the event of a justified suspicion of abuse based on concrete information, these log files can be subsequently checked.\n    </div>\n\n    <div class=\"content-container\">\n      <h4>1.4 Data input by the website user</h4>\n      You can furthermore, use our websites without the input of personal data without restriction. If we collect personal data (contact form), we will inform in each case about the purpose, scope, legality, and possible disclosure and use this only for these purposes. The input of this data by you is voluntary.\n    </div>\n  </div>\n\n  <div class=\"content-container\">\n    <h3>2. USE OF DATA</h3>\n\n    <div class=\"content-container\">\n      <h4>2.1 Use for service provision</h4>\n      We use the personal data collected and processed exclusively for the purposes of providing our services under the user agreement concluded with you and for processing payments. In doing so, we naturally comply with all applicable data protection laws, in particular the German Federal Data Protection Act/EU-DSGVO and the German Telemedia Act (TMG).\n    </div>\n\n    <div class=\"content-container\">\n      <h4>2.2 Disclosure to third parties</h4>\n      We do not pass on your personal data to third parties for marketing or similar purposes. Data will only be passed on if and insofar as this is necessary for the implementation of the user agreement, Brockhaus AG is legally obliged to do so or it should be necessary to enforce the general terms of use or other agreements concluded with you as well as our rights and claims.\n    </div>\n\n    <div class=\"content-container\">\n      <h4>2.3 Customer information by eMail</h4>\n      In the context of customer loyalty, we send current information to our customers to inform you about news and changes within our offer. This information is not to be confused with the general newsletters. If it concerns our offers and contains e.g. safety-relevant points or important information from our house, we can handle this only by eMail. Please have understanding for it.\n    </div>\n  </div>\n\n\n  <div class=\"content-container\">\n    <h3>3. COOKIES</h3>\n\n    <div class=\"content-container\">\n      Our website uses cookies to provide you with an effective experience and user-friendly handling. This makes the use of cookies necessary and justifies our legitimate interest in using this technology. Most browsers offer you the functionality to display the cookies used.\n    </div>\n   <div class=\"content-container\">\n      However, if you would like to generally prevent the use of cookies, your browser offers the option of preventing the acceptance and storage of new cookies. To find out how this works with your browser, please use the help function of the respective browser. However, we recommend that you leave the cookies function switched on, as only then will you be able to fully benefit from the high level of user comfort that we have set up for you. We do not create user profiles from this user data collected through cookies.\n    </div>\n\n    <div class=\"content-container\">\n      To edit your cookie settings, please click <a id=\"open-cookie-settings-link\" href=\"javascript:klaro.show();\">here</a>\n    </div>\n  </div>\n\n  <div class=\"content-container\">\n    <h3>4. WEBSITE EVALUATIONS AND TOOLS</h3>\n    <div class=\"content-container\">We use the following analysis tool to evaluate our websites and describe it to you as follows:</div>\n    <div class=\"content-container\">\n      This website uses Google Analytics, a web analytics service provided by Google, Inc. (\"Google\"). Google Analytics uses \"cookies\", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website is usually transmitted to a Google server in the USA and stored there. The IP address transmitted by your browser as part of Google Analytics is not merged with other data from Google. We have also extended Google Analytics on this website with the code \"anonymizeIP\". This guarantees the masking of your IP address so that all data is collected anonymously. Only in exceptional cases will the full IP address be transferred to a Google server in the USA and shortened there.\n    </div>\n    <div class=\"content-container\">\n      On behalf of the operator of this website, Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to website activity and internet usage to the website operator. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.\n    </div>\n    <div class=\"content-container\">\n      You can also prevent the collection of data generated by the cookie and related to your use of the website (including your IP address) to Google and the processing of this data by Google by downloading and installing the browser plugin available at the following link: <a href=\"https://tools.google.com/dlpage/gaoptout?hl=de\">https://tools.google.com/dlpage/gaoptout?hl=de</a>\n    </div>\n    <div class=\"content-container\">\n      As an alternative to the browser add-on, especially for browsers on mobile devices, you can also prevent the collection by Google Analytics by clicking on this link. An opt-out cookie will be set that prevents the future collection of your data when visiting this website. The opt-out cookie is only valid in this browser and only for our website and is stored on your device. If you delete the cookies in this browser, you must set the opt-out cookie again\n    </div>\n    <div class=\"content-container\">\n      We continue to use Google Analytics to analyze data from Double Click cookies and also AdWords for statistical purposes. If you do not wish to do so, you can disable this via the Ads Preferences Manager (<a href=\"https://www.google.com/settings/ads/onweb/?hl=de\">https://www.google.com/settings/ads/onweb/?hl=de</a>).\n    </div>\n    <div class=\"content-container\">\n      If you wish to object to the collection, you can use a plugin via the following link and install it: <a href=\"https://tools.google.com/dlpage/gaoptout?hl=de\">https://tools.google.com/dlpage/gaoptout?hl=de</a>\n    </div>\n  </div>\n\n  <div class=\"content-container\">\n    <h3>5. SECURITY</h3>\n\n\n    <div class=\"content-container\">\n      Brockhaus AG uses technical and organizational security measures to ensure that your personal data is protected against loss, incorrect modification or unauthorized access by third parties. In any case, only authorized persons have access to the personal data, and only to the extent necessary for the above-mentioned purposes. The security measures are constantly adapted to the improved technical possibilities.\n    </div>\n  </div>\n \n<div class=\"content-container\">\n    <h3>6. FURTHER INFORMATION REQUIREMENTS</h3>\n\n    <div class=\"content-container\">\n      <h4>6.1 Responsible entity</h4>\n      BROCKHAUS AG, Lünen. For full contact details, see imprint.\n    </div>\n\n    <div class=\"content-container\">\n      <h4>6.2 Data protection officer</h4>\n      P2 Consult<br>\n      Jürgen Golda<br>\n      Wilhelm-Bläser-Str. 3c, D-59174 Kamen<br>\n      Phone: +49 (0) 2307 28 74 488<br>\n      Mail: datenschutz@brockhaus-ag.de<br>\n    </div>\n\n    <div class=\"content-container\">\n      <h4>6.3. storage period</h4>\n      We store your data as long as the purpose of storage remains (requests, projects, contracts, etc.) If the purpose ceases to exist or you withdraw consent, your data will be deleted by the regular deletion run, provided that no legal retention periods must be observed.\n    </div>\n\n    <div class=\"content-container\">\n      <h4>6.4 Children</h4>\n      We will not knowingly collect or process data from children. To the extent that students make requests, we will only store the data if we have the express consent of the parent or guardian. If children's data may then be stored, we will only share it as required by law. The term \"children\" includes the definitions from national law and the legal provisions in force at our company.\n    </div>\n\n    <div class=\"content-container\">\n      <h4>6.5 Profiling</h4>\n      Profiling of your data does not take place.\n      Automatic decision-making and/or profiling with your data does not take place with us.\n    </div>\n\n    <div class=\"content-container\">\n      <h4>6.6 Your rights</h4>\n      You can contact us at any time if you want to make a disclosure, a deletion, a restriction or an objection. To do so, use the contact information provided. Requests must be made in writing so that we can clearly identify the requester.\n    </div>\n\n    <div class=\"content-container\">\n      <h4>6.7 Right of complaint</h4>\n      If you have reasonable doubts about our handling of your data, please inform us or contact the relevant supervisory authority.\n    </div>\n\n    <div class=\"content-container\">\n      <h4>6.8. Changes</h4>\n      We reserve the right to amend this privacy statement from time to time. Therefore, we recommend that you review this statement regularly.\n    </div>\n  </div>\n\n</div>\n\n\n\n\n\n\n  \n    \n\n",
-		"okr-team": "OKR Team",
-		"substructure": "Substructure"
-	},
-	"admin-settings-form": {
-		"config-names": {
-			"email-feedabck-receiver": "Email addresses of the feedback recipients. (Separated by a comma)",
-			"email-sender": "Email address of the OKR tool",
-			"frontend-base-url": "Frontend Base URL",
-			"max-key-results": "Maximum number of Key results",
-			"subject": {
-				"feedback": "Email subject for feedback",
-				"new-user": "Email subject for new users",
-				"reset-password": "Email Subject for the password reset email"
-			},
-			"threshold": {
-				"green-yellow": "Objective forecast threshold (green/yellow)",
-				"yellow-red": "Objective prognosis threshold (yellow/red)"
-			},
-			"topic-sponsors-activated": "Topic sponsors activated"
-		},
-		"confirmation-text": "By deactivating all OKR topic sponsors, they become team members in their respective team.",
-		"confirmation-title": "Deactivate OKR topic sponsors"
-	},
-	"admin-view": {
-		"admin-panel": "Admin panel",
-		"admins": "Admins",
-		"delete-dialog": {
-			"button-text": "Delete",
-			"message": " Delete {{surname}}, {{name}} from the admins?",
-			"title": "Delete admin"
-		},
-		"icon-tooltip": " Delete {{adminName}} from the admins",
-		"placeholder": "Define new admin",
-		"tooltip": {
-			"cannot-delete-yourself": "You cannot remove yourself",
-			"go-to-okr-unit-overview": "Go to structure overview"
-		}
-	},
-	"api-http-error-handling": {
-		"error-counting": "{{errorCount}} failed request{{pluralAppendix}}",
-		"error-message": {
-			"appendix": "s",
-			"more-detail": "More Details",
-			"one-or-more-errors": "Error executing one or more requests.",
-			"retry": "Try again",
-			"single-error": "Error executing the request."
-		}
-	},
-	"change-password-dialog": {
-		"form": {
-			"title": "Change password"
-		}
-	},
-	"chart-options-card": {
-		"chartType": "Chart type: ",
-		"company-average": "Company average",
-		"teams": "Teams",
-		"title": "Title: "
-	},
-	"comment-card": {
-		"edit-comment": "Edit comment",
-		"tooltip": {
-			"cancel": "Cancel editing",
-			"delete-comment": "Delete comment",
-			"edit-comment": "Edit comment",
-			"save-comment": "Save comment"
-		}
-	},
-	"comment-view-dialog": {
-		"close": "Close",
-		"min-char-message": "At least 3 characters are required",
-		"no-comment": "There are no comments yet for this KeyResult",
-		"title": "comments",
-		"tooltip": {
-			"comment-to-small": "Your comment must be longer",
-			"write-new-comment": "Post new comment"
-		},
-		"write-comment": "Write a new comment"
-	},
-	"company": {
-		"error": {
-			"error": "Error",
-			"error-loading-company": "The company could not be loaded. It could have been deleted by another user or the server is not responding.",
-			"navigate-to-structure-view": "To the structure overview"
-		},
-		"loading-company": "Loading company ...",
-		"menu": {
-			"export": "Export",
-			"export-contacts": "Export contacts"
-		},
-		"no-child-units": "There are no substructures for this structure yet",
-		"substructures": "Substructures",
-		"tooltip": {
-			"more-options-for-structure": "More options on this structure"
-		},
-		"your-teams-as-manager": "Your teams as managers",
-		"your-teams-as-member": "Your teams as a member"
-	},
-	"complete-init-state-form": {
-		"initialisation-completed": "Done!",
-		"initialisation-completed-message": "The initialization was successfully completed🎉",
-		"lets-go!": "Let's go!"
-	},
-	"confirmation-dialog": {
-		"cancel-text": "Cancel",
-		"confirm-text": "Confirm"
-	},
-	"convert-topic-draft-to-team": {
-		"dialog": {
-			"save-and-close-label": "Convert "
-		},
-		"form": {
-			"company-option": "Create team in {{value}} ",
-			"select": "Choose parent structure"
-		},
-		"title": "Convert Topic Draft to a Team",
-		"tooltip": {
-			"only-substructures-allowed": "A team can be created only in structures"
-		}
-	},
-	"create-dashboard": {
-		"add-chart-button": "Add chart",
-		"add-new-chart-to-dashboard": "Add Chart",
-		"chart-title-placeholder": "Chart Title",
-		"create-dashboard-button": "Create Dashboard",
-		"dashboard-title-placeholder": "Dashboard Title",
-		"line-progress": "Progress - Linechart",
-		"okr-toolbar": {
-			"create-dashboard": "Create Dashboard"
-		},
-		"pie-topicdraft": "Topicdraft overview - Piechart",
-		"select-teams-placeholder": "Select Teams",
-		"type-of-chart-placeholder": "Type of chart"
-	},
-	"create-user-init-state-form": {
-		"create-your-admin-account": "Create your administrator account",
-		"next": "Continue",
-		"subtitle": "Create an initial administrator account."
-	},
-	"current-higher-than-end-validator-function": {
-		"message": "The \"current\" value is higher than the maximum value."
-	},
-	"cycle-admin-card": {
-		"delete-cycle": "Delete cycle",
-		"deletion-dialog": {
-			"content": "the cycle from {{cycleStart}} to {{cycleEnd}}",
-			"title": "Delete the cycle?"
-		},
-		"edit-cycle": "Edit cycle",
-		"hidden": "Hidden",
-		"visible": "Visible"
-	},
-	"cycle-admin-container": {
-		"administration": "Cycle administration",
-		"create-new-cycle": "Create new cycle",
-		"tooltip": {
-			"go-back-to-company": "Return to structure",
-			"go-to-okr-unit-overview": "Go to structure overview"
-		}
-	},
-	"cycle-creation-form": {
-		"creation-dialog": {
-			"save": "Create cycle",
-			"title": "Create a new cycle"
-		},
-		"end-date": "End date",
-		"start-date": "Start date",
-		"visibility": "Visibility"
-	},
-	"cycle-edit-form": {
-		"end-date": "End date",
-		"name": "Name",
-		"save": "Save",
-		"start-date": "Start date",
-		"title": "Edit cycle",
-		"visibility": "Visibility"
-	},
-	"dashboard": {
-		"okr-toolbar": {
-			"dashboard": "Dashboard"
-		}
-	},
-	"dashboard-card": {
-		"created-by": "Created by: ",
-		"delete-dashboard": "Delete"
-	},
-	"dashboard-overview": {
-		"create-dashboard-button": "Create Dashboard",
-		"okr-toolbar": {
-			"dashboard-overview": "Dashboard overview"
-		},
-		"wip-info-text": "This page is currently under construction"
-	},
-	"date-format-validator-function": {
-		"message": "The entered value is not a valid date in the form DD.MM.YYYY"
-	},
-	"date-not-in-the-past-validator-function": {
-		"message": "The entered date is in the past"
-	},
-	"date-range-in-range-within-another-dates-validator-function": {
-		"message": "The date is within the time span of another cycle."
-	},
-	"delete-dialog": {
-		"delete": "Delete",
-		"general-do-you-want-to-delete": "Do you really want to delete {{value}}?"
-	},
-	"demo-footer": {
-		"credits": "Credits",
-		"imprint": "Legal",
-		"privacy-policy": "Privacy policy"
-	},
-	"demo-home": {
-		"contact": {
-			"content": "Do you have questions, suggestions, or problems with the Burning OKR Tool? You are welcome to contact us.",
-			"content-with-link": "In case of bugs or suggestions for improvement regarding the tool, please contact us via <a href=\"https://github.com/BurningOKR/BurningOKR/issues/new/choose\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub</a>. If you would like BROCKHAUS AG to perform customization for you, or if you require consulting or any other service, please contact us via <a href=\"mailto:info@brockhaus-ag.de\">info@brockhaus-ag.de</a>.",
-			"title": "How to reach us"
-		},
-		"digitalization": {
-			"content": "With Burning OKR, you digitally map all essential components of the OKR framework and create transparency across teams. The teams manage their own objectives and key results with Burning OKR and make their progress and successes visible. Furthermore, the hierarchies of your company can be made visible within the tool.",
-			"title": "Digitize your entire OKR process"
-		},
-		"documentation": "Documentation",
-		"features": {
-			"content": "Our OKR tool enables you to digitalize the OKR process and its result metrics in a holistic way, including all necessary features. In detail, Burning OKR offers...",
-			"perks-list": "<li>the authentication via Azure Active Directory or a local user management</li>\n        <li>the management of multiple companies (multitenancy)</li>\n        <li>the mapping of cycles, company structures, teams, objectives and key results</li>\n        <li>a progress indicator for Objectives and Key Results</li>\n        <li>a flexible individualization, including the designation of teams, the restriction of the maximum Key Result number, etc.</li>\n        <li>a data export as Excel spreadsheet</li>",
-			"title": "Innovative features"
-		},
-		"free-and-open-source": {
-			"content": "The application is completely free for corporate and private customers. In addition, you can view the open source code at any time on <a href=\"https://github.com/BurningOKR/BurningOKR\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub</a> and adapt it to your needs. We are happy to assist you in this process. Make your customizations available as a pull request for the whole world!",
-			"title": "Our free offer for you"
-		},
-		"further-information": {
-			"content": "For more information on the OKR Framework, please visit the <a href=\"https://www.brockhaus-ag.de/themen/AGILEVERSITY#themenAgileversity_accordionImage_okr\" target=\"_blank\" rel=\"noopener noreferrer\">AGILEVERSITY page of BROCKHAUS AG</a>.",
-			"title": "Learn more about the OKR Framework and OKR processes"
-		},
-		"github": "GitHub",
-		"installation": {
-			"content": "Burning OKR is easy to install on various platforms. We offer tutorials on how to install with...",
-			"list": "<li>Docker</li>        \n<li>a Tomcat Web Server (coming soon)</li>",
-			"title": "Easy installation"
-		},
-		"playground": "Playground",
-		"target-management": {
-			"content": "Objectives and Key Results are processed in cycles. Design the name, length and content of the cycles according to your wishes. Keep track of the productivity of OKR teams with the Objectives and Key Results progress bar.",
-			"title": "Manage and control your company goals"
-		},
-		"visions": {
-			"content": "The agile OKR framework supports you in achieving strategic business goals through a structured goal-setting process. Short cycles and measurable goals promote regular evaluation of results and give you the opportunity to quickly modify your business model based on new information. With Burning OKR we offer you a powerful and user-friendly OpenSource tool to support you.",
-			"title": "Realize Visions with the help of OKR"
-		},
-		"welcome": {
-			"content": "Burning OKR supports you in achieving strategic corporate goals and promotes an agile and transparent corporate culture. The open source OKR tool is based on BROCKHAUS AG's many years of experience with the OKR framework.",
-			"title": "Welcome to Burning OKR!"
-		}
-	},
-	"demo-imprint": "<div class=\"container footer-margin\">  <h1>IMPRINT</h1>\n  <h4>Imprint according to § 5 TMG:</h4>\n  <div class=\"content-container\">    <h4>BROCKHAUS AG</h4>    Pierbusch 17<br>    44536 Lünen<br>    Germany<br>  </div>\n  <div class=\"content-container\">    <h4>LOCATION DORTMUND</h4>    Emil-Figge-Strasse 85<br>    44227 Dortmund<br>    Germany<br>  </div>\n  <div class=\"content-container\">    <h4>LOCATION HAMBURG </h4>    Willy-Brandt-Strasse 23-25<br>    20457 Hamburg<br>    Germany<br>  </div>\n\n  <div class=\"content-container\">    <b>Phone:</b> +49 (0) 231 98 75-0<br>    <b>Fax:</b> +49 (0) 231 98 75-540<br>    <b>E-mail:</b> info@brockhaus-ag.de<br>    <b>Website:</b> www.brockhaus-ag.de<br>\n    <br>\n    <b>Authorized representative:</b> Matthias Besenfelder<br>    Chairman of the Supervisory Board: Dr. Adam Spalek<br>\n    <br>\n    <b>Register Court:</b>Amtsgericht Dortmund<br>    <b>Register number:</b> HRB 27027<br>    <b>Sales tax identification number:</b> DE 299350276<br>\n    <br>\n    <b>Responsible for the content according to § 55 RStV:</b> Matthias Besenfelder<br>\n    <br>\n    <b>Disclaimer:</b> Despite careful control of the content, we do not assume any liability for the content of external links. The operators of the linked pages are solely responsible for their content.<br>  </div>\n</div>",
-	"demo-main-view": {
-		"playground": "Playground"
-	},
-	"demo-warning": {
-		"abort-button": "Cancel",
-		"database-deletion-text": "Every 2 hours all data on the Demo Playground is deleted. A countdown is displayed for this purpose.",
-		"database-deletion-title": "Data deletion",
-		"explanation": "You are now entering the playground of the Burning OKR Demo.",
-		"good-vibes-only-text": "Please do not spread negative content on the demo playground.",
-		"good-vibes-only-title": "#GoodVibesOnly",
-		"headline": "User generated content",
-		"playground-button": "To the Playground",
-		"title": "Playground",
-		"user-generated-text": "All content on Demo Playground is generated by users. We take no responsibility for this content.",
-		"user-generated-title": "User generated content"
-	},
-	"department-description-edit-form": {
-		"edit-description": "Edit description"
-	},
-	"department-tab-description": {
-		"beginning": "Beginning:",
-		"delimitation": "Delimitation:",
-		"dependencies": "Dependencies:",
-		"description": "Description",
-		"edit-description": "Edit description",
-		"handover-plan": "Handover Plan:",
-		"initiator": "Initiator:",
-		"resources": "Required Resources:",
-		"stakeholder": "Stakeholders:",
-		"startteam": "Start Team:",
-		"to": "Contributes to:",
-		"tooltip": {
-			"no-edit-rights": "Only OKR Masters are allowed to edit descriptions"
-		},
-		"topic": "Topic:"
-	},
-	"department-tab-task-card": {
-		"delete": "Delete",
-		"task-board-loading": "loading"
-	},
-	"department-tab-task-form": {
-		"assigned-user-ids": "Editor",
-		"description": "Description",
-		"dialog": {
-			"create": "create",
-			"edit": "edit",
-			"title": "{{editOrCreateText}} task"
-		},
-		"no-parent-key-result": "No parent key result",
-		"revisions": {
-			"date": "Date",
-			"field": "Field",
-			"fields": {
-				"assignedKeyResult": "Key result",
-				"assignedUserIds": "Editor",
-				"description": "Description",
-				"taskState": "State",
-				"title": "Title"
-			},
-			"new-value": "New value",
-			"old-value": "Old value",
-			"user": "User"
-		},
-		"select-parent-key-result": "Choose a parent Key Result",
-		"task-state": "State",
-		"title": "Title"
-	},
-	"department-tab-taskboard": {
-		"add-button": {
-			"create-new-task": "Create task",
-			"tooltip": "WebSocket-Connection is broken"
-		},
-		"deletion-dialog": {
-			"button-text": "Delete",
-			"message": "Do you really want to delete task \"{{title}}\"?",
-			"title": "Delete task"
-		},
-		"task-board-headline": "Tasks",
-		"websocket-not-connected": "Websocket connection could not be established. Changes are currently not adopted."
-	},
-	"department-tab-team": {
-		"define-o-k-r-master": "No OKR Master defined",
-		"define-topic-sponsor": "No OKR topic sponsor defined",
-		"deletion-dialog": {
-			"button-text": "Delete",
-			"message": "Are you sure you want to do this? This user will lose his manager rights for this team.",
-			"message-member": "Do you want to remove this member from the team? The user will lose his membership rights in this team.",
-			"title-master": "Remove OKR topic sponsor",
-			"title-member": "Delete member",
-			"title-sponsor": "Delete OKR Master"
-		},
-		"members-of-unit": "Structure Members",
-		"no-members-defined": "No team members defined",
-		"o-k-r-master": "OKR Master",
-		"o-k-r-topic-sponsor": "OKR Topic sponsor",
-		"placeholder": {
-			"member": "Add new member",
-			"okr-master": "Add OKR master",
-			"topic-sponsor": "Add topic sponsor"
-		},
-		"team-member": "Team members"
-	},
-	"dialog-component": {
-		"cancel": "Cancel",
-		"date-range-within-another-date-range": "The start and end dates must not overlap with any other cycle range.",
-		"save": "Save",
-		"start-date-not-before-end-date": "The start date cannot be before the end date.",
-		"start-equals-end": "The start value must not be the same as the target value."
-	},
-	"disabled-in-demo-version": "⚠ Disabled in the demo version",
-	"error": {
-		"error-id": "Error ID:",
-		"error-list": "Error list",
-		"tooltip": {
-			"go-to-okr-unit-overview": "Go to structure overview",
-			"navigate-to-previous": "Return to the previous page"
-		}
-	},
-	"feedback-button": {
-		"button-icon": {
-			"tooltip": "Feedback"
-		},
-		"successful-send": {
-			"message": "Feedback sent successfully 📬"
-		}
-	},
-	"feedback-form": {
-		"dialog": {
-			"save-button": "Submit Feedback",
-			"title": "Give feedback"
-		},
-		"form-field": {
-			"feedback": "Feedback",
-			"name": "Name"
-		}
-	},
-	"import-csv-dialog": {
-		"amount-of-entries-loaded": "entries were loaded.",
-		"confirmation": {
-			"text": "This operation will add all {{list_length}} users.",
-			"title": " Create {{list_length}} users."
-		},
-		"csv-file": "CSV file",
-		"department": "Department",
-		"description": "This function allows you to import users with a CSV file. The CSV file must provide the user data in the following order: First name, last name, email, job title, department",
-		"duplicate-email-adresses-warning": "There are duplicate email addresses in this record.",
-		"email": "Email",
-		"job-title": "Job title",
-		"name": "Name",
-		"to-many-entries-warning": "At least one entry has too many columns."
-	},
-	"key-result-form": {
-		"amount-units": "Amount",
-		"current": "Current",
-		"description": "Description",
-		"dialog": {
-			"create": "creation",
-			"edit": "editing"
-		},
-		"key-result": "Key Result",
-		"start": "Start",
-		"target": "Target",
-		"unit": "Unit"
-	},
-	"key-result-milestone-form": {
-		"add-button": "Add milestone",
-		"name-*": "Name",
-		"toggle": "Milestones active",
-		"tooltip": {
-			"delete-button": "Delete milestone"
-		},
-		"value-input": "Target-Value"
-	},
-	"keyresult": {
-		"deletion-dialog": {
-			"button-text": "Delete KeyResult",
-			"message": "Delete KeyResult {{number}}. {{keyResultTitle}} from the Objective?",
-			"title": "Clear"
-		},
-		"menu": {
-			"edit-key-result": "Edit KeyResult",
-			"keyresult": "Delete key result",
-			"move-key-result-down": "Move KeyResult down",
-			"move-key-result-up": "Move KeyResult up"
-		},
-		"tooltip": {
-			"adjust-progress": "Adjust progress",
-			"comments-for-this-key-result": "Comments about this KeyResult",
-			"more-options": "More options for this KeyResult"
-		}
-	},
-	"language-picker": {
-		"language": {
-			"english": "English",
-			"german": "German",
-			"japanese": "Japanese"
-		},
-		"select-trigger-text": "Select language"
-	},
-	"login": {
-		"button": "Password forgotten",
-		"caps-lock-on": "The caps lock key is active",
-		"email": "Email",
-		"error-invalid-grant": "Invalid password or username",
-		"error-unauthorized": "Username not found",
-		"password": "Password"
-	},
-	"logout": {
-		"logged-out": "You have been successfully logged out.",
-		"redirect": "You will be redirected in a moment."
-	},
-	"main-view": {
-		"navigation-sidebar": {
-			"cycle-not-started": "This cycle has not yet started and can be processed in preparation.",
-			"cycle-started": "This cycle has already expired and is therefore closed - processing is only possible to a limited extent."
-		},
-		"tooltip": {
-			"adjust-cycleperiod": "Adjust the observation period",
-			"go-to-structure-view": "To the structure overview",
-			"toogle-navigvation": "Show / hide navigation menu"
-		}
-	},
-	"max-length-validator": {
-		"message": "Maximum number of characters exceeded"
-	},
-	"navigation-list-entry": {
-		"tooltip": {
-			"is-substructure": "This is a substructure",
-			"is-team": "This is a team",
-			"you-are-manager": "You are manager of this structure",
-			"you-are-member": "You are a member of this structure"
-		}
-	},
-	"no-mail-information": {
-		"a-a-d": "If an Azure Active Directory is used for user management, the following functions are not available:",
-		"back-to-home": "Back to home page",
-		"create-user-mails": "Sending mails when creating a new user",
-		"feedback": "Sending feedback",
-		"info": "This can restrict the usability of the application.",
-		"local": "If the local user database of BurningOKR is used for user management, the following functions are not available:",
-		"no-smtp": "No SMTP configured",
-		"password-reset-mails": "Sending mails when resetting a password",
-		"title": "No SMTP configuration was found.",
-		"tooltip": {
-			"go-to-okr-unit-overview": "Go to structure overview"
-		}
-	},
-	"objective": {
-		"deletion-dialog": {
-			"button-text": "Delete",
-			"message": "Delete Objective {{number}}. {{objectiveTitle}}?",
-			"title": "Delete Objective"
-		},
-		"menu": {
-			"comment-objective": "Comment Objective",
-			"delete-objective": "Delete Objective",
-			"disable-objective": "Set Objective to inactive",
-			"edit-objective": "Edit Objective",
-			"enable-objective": "Set Objective to Active",
-			"move-down-objective": "Move Objective down",
-			"move-up-objective": "Move Objective up"
-		},
-		"objective-isnt-active": "This objective is not active",
-		"tooltip": {
-			"bad-progress": "The objective is making bad progress",
-			"expand-objective": "Expand Objective",
-			"good-progress": "The Objective makes good progress",
-			"progress-can-be-better": "The objective should improve progress",
-			"subordinate": "下位のObjectiveの数"
-		}
-	}
+  "add-child-unit-button": {
+    "add-new-child-unit": "下位構造を作る",
+    "demo-privacy-policy": "<div class=\"container footer-margin\">となります。\n\n  <div class=\"content-container\">となります。\n    <h1>DATA PROTECTION</h1> です。\n\n    <div class=\"content-container\">となります。\n      この宣言により、当社はデータ保護に関連する側面と、お客様の権利を保護するための措置についてお知らせします。Brockhaus AGは、ドイツ連邦データ保護法（BDSG）およびEU一般データ保護規則（EU-DSGVO）の要件を遵守しています。\n    </div>\n  </div>\n\n  <div class=\"content-container\">となります。\n    <h3>1.個人情報の収集と利用</h3>について\n\n    <div class=\"content-container\">となります。\n      <h4>1.1.基本情報</h4>。\n      お客様のデータの唯一の目的は、当社がお客様に最も使いやすく、実用的で安全なインターネットサービスを提供できるようにすることです。個人データには、識別された、または識別可能な自然人の個人的または事実上の状況に関するすべての情報、例えば、名前、住所、連絡先、IPアドレス、送信データ量、などが含まれます。\n    </div>\n\n    <div class=\"content-container\">となります。\n      <h4>1.2 法的根拠</h4>。\n      a)本サイトの商品・サービスの提供：契約の開始または契約の履行<br>。\n      b) 郵便、電子メールまたはファックスで当社に送られた問い合わせ：契約の開始または履行<br>。\n      c) 他のオファーへのリンクまたはアクセス数の評価：正当な利益\n    </div>\n\n    <div class=\"content-container\">となります。\n      <h4>1.3 ウェブサイトの運用による自動処理</h4>。\n      ウェブサイトは、西ヨーロッパ（ドイツ・フランクフルト）のプロバイダーによって運営されており、このプロバイダーは、ウェブサイト運営のために、システムへのアクセスをいわゆるサーバーログとして保存します。収集されるデータは、原則として以下の通りです：IPアドレス、アクセスのタイムスタンプ、ウェブページの名前、転送データ量、ログアウトまたは中止、ブラウザの種類、オペレーティングシステムからの情報、参照元URL。これらのデータは、当社では保存または分析されません。具体的な情報に基づく不正使用の正当な疑いがある場合、これらのログファイルはその後確認することができます。\n    </div> <div\n\n    <div class=\"content-container\">となります。\n      <h4>1.4 ウェブサイト利用者が入力するデータ</h4>。\n      また、お客様は個人情報を入力することなく、当社のウェブサイトを利用することができます。個人データを収集する場合（お問い合わせフォーム）には、その都度、目的、範囲、適法性、開示可能性をお知らせし、その目的のみに使用します。お客様によるこのデータの入力は任意です。\n    </div>\n  </div>\n\n  <div class=\"content-container\">となります。\n    <h3>2.データの使用</h3>について\n\n    <div class=\"content-container\">となります。\n      <h4>2.1 サービス提供のための利用</h4>.\n      当社は、収集および処理した個人データを、お客様との間で締結したユーザー契約に基づいて当社のサービスを提供する目的および支払処理の目的にのみ使用します。その際、当社は、適用されるすべてのデータ保護法、特にドイツ連邦データ保護法/EU-DSGVOおよびドイツテレメディア法（TMG）を当然遵守します。\n    </div> <div>\n\n    <div class=\"content-container\">となります。\n      <h4>2.2 第三者への開示</h4>。\n      当社は、マーケティングまたは類似の目的のために、お客様の個人データを第三者に提供することはありません。データは、ユーザー契約の履行に必要な場合、Brockhaus AG が法的義務を負う場合、または一般利用規約やお客様と締結したその他の契約、および当社の権利や請求権を行使するために必要な場合にのみ、提供されます。\n    </div>\n\n    <div class=\"content-container\">となります。\n      <h4>2.3 eメールによる顧客情報</h4>。\n      当社の顧客維持ポリシーの一環として、当社はお客様に最新情報を送信し、当社の提供するサービス内のニュースや変更についてお知らせしています。この情報は、一般的なニュースレターと混同されることはありません。当社の提供するサービスに関連し、安全に関する事項や当社からの重要な情報などが含まれている場合は、電子メールでのみ対応させていただきます。ご理解をお願いいたします。\n    </div> <div\n  </div>\n\n\n  <div class=\"content-container\">となります。\n    <h3>3.COOKIES（クッキー）</h3>。\n\n    <div class=\"content-container\">となります。\n      当社のウェブサイトは、お客様に効果的な体験とユーザーフレンドリーな取り扱いを提供するためにクッキーを使用しています。このため、クッキーの使用は必要であり、この技術を使用する当社の正当な利益を正当化するものです。ほとんどのブラウザは、使用されたクッキーを表示する機能を提供しています。\n    </div>\n\n    <div class=\"content-container\">となります。\n      ただし、一般的にクッキーの使用を防止したい場合は、お使いのブラウザに新しいクッキーの受け入れと保存を防止するオプションが用意されています。お使いのブラウザでこの方法を確認するには、各ブラウザのヘルプ機能をご利用ください。ただし、クッキーの機能をオンにしたままにしておくことをお勧めします。そうすることで、当社が設定した高いレベルのユーザー快適性を十分に活用することができるからです。当社は、クッキーによって収集されたユーザーデータからユーザープロファイルを作成することはありません。\n    </div>\n\n    <div class=\"content-container\">となります。\n      クッキーの設定を編集するには、<a id=\"open-cookie-settings-link\" href=\"javascript:klaro.show();\"> こちら</a>をクリックしてください。\n    </div>\n  </div>\n\n  <div class=\"content-container\">となります。\n    <h3>4. WEBサイトの評価とツール</h3>.\n    <div class=\"content-container\">当社は、以下の分析ツールを使用して、当社のウェブサイトを評価し、以下のようにお客様に説明します：</div>.\n    <div class=\"content-container\">（英語）。\n      本ウェブサイトでは、Google, Inc（以下、「Google」）が提供するウェブ解析サービス「Google Analytics」を利用しています。Google Analyticsは、ユーザーのコンピュータに置かれるテキストファイルである「Cookie」を使用して、ウェブサイトがユーザーのサイト利用状況を分析するのに役立ちます。Cookieによって生成されたお客様のウェブサイトの利用状況に関する情報は、通常、米国にあるGoogleのサーバーに送信され、そこに保存されます。Google Analyticsの一部としてお客様のブラウザから送信されるIPアドレスは、他のGoogleのデータと統合されることはありません。また、このウェブサイトでは、「anonymizeIP」というコードでGoogle Analyticsを拡張しています。これにより、お客様のIPアドレスのマスキングが保証され、すべてのデータが匿名で収集されます。例外的な場合のみ、完全なIPアドレスが米国のGoogleサーバーに転送され、そこで短縮されます。\n    </div>\n    <div class=\"content-container\">となります。\n      Googleは、本ウェブサイトの運営者に代わって、お客様のウェブサイト利用を評価し、ウェブサイトの活動に関するレポートを作成し、ウェブサイトの活動やインターネット利用に関するその他のサービスを本ウェブサイト運営者に提供する目的で、この情報を使用します。お客様は、ブラウザの適切な設定を選択することにより、クッキーの使用を拒否することができますが、その場合、本ウェブサイトの全機能を使用することができない場合がありますので、ご注意ください。\n    </div>\n    <div class=\"content-container\">となります。\n      また、<a href=\"https://tools.google.com/dlpage/gaoptout?hl=de\">https://tools.google.com/dlpage/gaoptout?hl=de</a> で入手できるブラウザプラグインをダウンロードしインストールすることで、クッキーによって生成された、お客様のウェブサイトの使用に関連するデータ（お客様のIPアドレスを含む）のGoogleによる収集およびこのデータのGoogleによる処理を防止できます。\n    </div>\n    <div class=\"content-container\">となります。\n      ブラウザアドオンの代わりとして、特にモバイル端末のブラウザでは、このリンクをクリックすることで、Google Analyticsによるデータ収集を防ぐこともできます。オプトアウトCookieが設定され、今後このウェブサイトを訪問した際にお客様のデータが収集されないようになります。オプトアウトCookieは、このブラウザでのみ有効で、当社のウェブサイトでのみ有効で、お客様の端末に保存されます。このブラウザのクッキーを削除した場合、オプトアウトクッキーを再度設定する必要があります。\n    </div>\n    <div class=\"content-container\">となります。\n      当社は引き続きGoogle Analyticsを使用してDouble Click Cookiesのデータを分析し、またAdWordsを統計目的で使用しています。これを望まない場合は、Ads Preferences Manager (<a href=\"https://www.google.com/settings/ads/onweb/?hl=de\">https://www.google.com/settings/ads/onweb/?hl=de</a>) から無効化することができます。\n    </div>\n    <div class=\"content-container\">となります。\n      収集に反対したい場合は、次のリンクからプラグインを使用してインストールすることができます：<a href=\"https://tools.google.com/dlpage/gaoptout?hl=de\">https://tools.google.com/dlpage/gaoptout?hl=de</a>\n    </div>\n  </div>\n\n  <div class=\"content-container\">となります。\n    <h3>5.セキュリティ</h3>について\n\n\n    <div class=\"content-container\">となります。\n      Brockhaus AG は、技術的および組織的なセキュリティ対策により、お客様の個人データの紛失、不正な変更、第三者による不正なアクセスから保護されるようにしています。いずれの場合も、個人データへのアクセスは、権限を有する者のみが、上記の目的に必要な範囲でのみ行うものとします。セキュリティ対策は、常に技術的な可能性の向上に適応しています。\n    </div> <div>\n  </div>\n\n\n\n  <div class=\"content-container\">となります。\n    <h3>6. 更なる情報提供の義務</h3>。\n\n    <div class=\"content-container\">となります。\n      <h4>6.1.責任主体</h4>。\n      BROCKHAUS AG, Lünen.詳細な連絡先については、インプリントをご覧ください。\n    </div>\n\n    <div class=\"content-container\">となります。\n      <h4>6.2.データ保護担当者</h4>。\n      P2コンサル<br\n      ユルゲン・ゴルダ<br>\n      Wilhelm-Bläser-Str. 3c, D-59174 Kamen<br>\n      電話：+49 (0) 2307 28 74 488<br>。\n      Mail: datenschutz@brockhaus-ag.de<br>\n    </div>\n\n    <div class=\"content-container\">となります。\n      <h4>6.3.保存期間</h4>。\n      目的が存在しなくなった場合、またはお客様が同意を撤回した場合、お客様のデータは、法的な保存期間を遵守する必要がない限り、通常の削除実行によって削除されます。\n    </div>\n\n    <div class=\"content-container\">となります。\n      <h4>6.4子ども</h4>.\n      当社は、故意に児童からデータを収集・処理することはありません。児童が要求する場合、当社は、児童の親または保護者の明確な同意がある場合にのみ、データを保存することにしています。その後、児童のデータが保存される可能性がある場合、当社は、法律で要求される場合にのみ、それを共有します。児童」という用語には、国内法およびわが国で適用される法的規定からの定義が含まれます。\n    </div>\n\n    <div class=\"content-container\">となります。\n      <h4>6.5 プロファイリング</h4>.\n      お客様のデータのプロファイリングは行われません。\n      お客様のデータによる自動的な意思決定および／またはプロファイリングは、当社では行われません。\n    </div>\n\n    <div class=\"content-container\">となります。\n      <h4>6.6.あなたの権利</h4>。\n      お客様は、情報提供、削除、制限、異議申し立ての権利を主張したい場合、いつでも当社に連絡することができます。その際には、提供された連絡先の詳細を使用してください。リクエストは、リクエストする人を明確に識別できるように、書面で行う必要があります。\n    </div>\n\n    <div class=\"content-container\">となります。\n      <h4>6.7 不満を訴える権利</h4>。\n      お客様のデータの取り扱いについて合理的な疑問がある場合は、当社にお知らせいただくか、関連する監督官庁にご連絡ください。\n    </div>\n\n    <div class=\"content-container\">となります。\n      <h4>6.8.変更点</h4></h4>。\n      当社は、本プライバシーポリシーを随時修正する権利を留保します。したがって、このステートメントを定期的に確認することをお勧めします。\n    </div>\n  </div>\n\n</div>\n",
+    "okr-team": "OKRチーム",
+    "substructure": "下位構造"
+  },
+  "admin-settings-form": {
+    "config-names": {
+      "email-feedabck-receiver": "フィードバック先のEメールアドレス。(カンマで区切ってください)",
+      "email-sender": "OKRツールのメールアドレス",
+      "frontend-base-url": "フロントエンドのベースURL",
+      "max-key-results": "Key Resultsの最大数",
+      "subject": {
+        "feedback": "フィードバック用メール件名",
+        "new-user": "新規ユーザー向けメール件名",
+        "reset-password": "パスワードリセットメールの件名"
+      },
+      "threshold": {
+        "green-yellow": "目標予測しきい値（緑・黄）",
+        "yellow-red": "目標予測しきい値（黄/赤）"
+      },
+      "topic-sponsors-activated": "OKRサポートリーダーの有効化"
+    },
+    "confirmation-text": "すべてのOKRサポートリーダーを解除することで、それぞれのチームでのチームメンバーになります。",
+    "confirmation-title": "OKRサポートリーダーを解除する"
+  },
+  "admin-view": {
+    "admin-panel": "管理画面",
+    "admins": "管理者",
+    "delete-dialog": {
+      "button-text": "削除",
+      "message": "管理人から{{surname}}, {{name}}を削除しますか？",
+      "title": "管理者削除"
+    },
+    "icon-tooltip": "管理者から{{adminName}}を削除する",
+    "placeholder": "新しい管理者を定義する",
+    "tooltip": {
+      "cannot-delete-yourself": "自分自身を削除することはできません",
+      "go-to-okr-unit-overview": "構造概要へ"
+    }
+  },
+  "api-http-error-handling": {
+    "error-counting": "{{errorCount}}回リクエストに失敗した{{pluralAppendix}}。",
+    "error-message": {
+      "appendix": "n",
+      "more-detail": "詳細はこちら",
+      "one-or-more-errors": "1つ以上のリクエストの実行中にエラーが発生しました。",
+      "retry": "再試行",
+      "single-error": "リクエストの実行中にエラーが発生しました。"
+    }
+  },
+  "change-password-dialog": {
+    "form": {
+      "title": "パスワードの変更"
+    }
+  },
+  "chart-options-card": {
+    "chartType": "チャートタイプです：",
+    "company-average": "会社平均",
+    "teams": "チーム",
+    "title": "タイトル"
+  },
+  "comment-card": {
+    "edit-comment": "コメントを編集する",
+    "tooltip": {
+      "cancel": "キャンセル",
+      "delete-comment": "コメント削除",
+      "edit-comment": "コメント編集",
+      "save-comment": "コメント保存"
+    }
+  },
+  "comment-view-dialog": {
+    "close": "閉じる",
+    "min-char-message": "3文字以上必要です",
+    "no-comment": "この件に関するコメントはまだありません。",
+    "title": "コメント",
+    "tooltip": {
+      "comment-to-small": "コメントが短い過ぎます。",
+      "write-new-comment": "新しいコメントを書く"
+    },
+    "write-comment": "新しいコメントを書く"
+  },
+  "company": {
+    "error": {
+      "error": "エラー",
+      "error-loading-company": "会社を読み込むことができませんでした。他のユーザーによって削除されたか、サーバーが応答していない可能性があります。",
+      "navigate-to-structure-view": "構造概要へ"
+    },
+    "loading-company": "会社情報を読み込んでいます...",
+    "menu": {
+      "export": "エクスポート",
+      "export-contacts": "連絡先をエクスポートする"
+    },
+    "no-child-units": "この組織の下位構造はまだありません",
+    "substructures": "下位構造",
+    "tooltip": {
+      "more-options-for-structure": "この組織のオプションを増やす"
+    },
+    "your-teams-as-manager": "マネージャーとしてのあなたのチーム",
+    "your-teams-as-member": "メンバーとして所属するチーム"
+  },
+  "complete-init-state-form": {
+    "initialisation-completed": "準備完了です！",
+    "initialisation-completed-message": "初期化が正常に完了しました🎉。",
+    "lets-go!": "やってみよう！"
+  },
+  "confirmation-dialog": {
+    "cancel-text": "キャンセル",
+    "confirm-text": "確認"
+  },
+  "convert-topic-draft-to-team": {
+    "dialog": {
+      "save-and-close-label": "変換"
+    },
+    "form": {
+      "company-option": "{{value}} の中にチームを作成する",
+      "select": "上位構造を選択する"
+    },
+    "title": "ドラフトトピックをチームのトピックに変える",
+    "tooltip": {
+      "only-substructures-allowed": "チームは、組織でのみ作成することができます"
+    }
+  },
+  "create-dashboard": {
+    "add-chart-button": "ダイアグラムを追加",
+    "add-new-chart-to-dashboard": "ダイアグラムを追加",
+    "chart-title-placeholder": "図のタイトル",
+    "create-dashboard-button": "ダッシュボードの作成",
+    "dashboard-title-placeholder": "ダッシュボードタイトル",
+    "line-progress": "進捗状況 - 折れ線グラフ",
+    "okr-toolbar": {
+      "create-dashboard": "ダッシュボードを作成する"
+    },
+    "pie-topicdraft": "トピックデザインの概要-円グラフ",
+    "select-teams-placeholder": "選択したチーム",
+    "type-of-chart-placeholder": "ダイアグラムの種類"
+  },
+  "create-user-init-state-form": {
+    "create-your-admin-account": "管理者アカウント",
+    "next": "さらに",
+    "subtitle": "初期管理者アカウントを作成する。"
+  },
+  "current-higher-than-end-validator-function": {
+    "message": "現在値が最大値より高い。"
+  },
+  "cycle-admin-card": {
+    "delete-cycle": "サイクルを削除する",
+    "deletion-dialog": {
+      "content": "{{cycleStart}}から{{cycleEnd}}までのサイクル。",
+      "title": "サイクルを削除する？"
+    },
+    "edit-cycle": "サイクル編集",
+    "hidden": "非表示",
+    "visible": "表示"
+  },
+  "cycle-admin-container": {
+    "administration": "サイクルマネジメント",
+    "create-new-cycle": "新しいサイクルを作成する",
+    "tooltip": {
+      "go-back-to-company": "組織に戻る",
+      "go-to-okr-unit-overview": "組織概要へ"
+    }
+  },
+  "cycle-creation-form": {
+    "creation-dialog": {
+      "save": "サイクルを作成する",
+      "title": "新しいサイクルを作成する"
+    },
+    "end-date": "終了日",
+    "start-date": "開始日",
+    "visibility": "表示"
+  },
+  "cycle-edit-form": {
+    "end-date": "終了日",
+    "name": "名称",
+    "save": "セーブ",
+    "start-date": "開始日",
+    "title": "編集サイクル",
+    "visibility": "表示"
+  },
+  "dashboard": {
+    "okr-toolbar": {
+      "dashboard": "ダッシュボード"
+    }
+  },
+  "dashboard-card": {
+    "created-by": "によって作成されました：",
+    "delete-dashboard": "削除"
+  },
+  "dashboard-overview": {
+    "create-dashboard-button": "ダッシュボードの作成",
+    "okr-toolbar": {
+      "dashboard-overview": "ダッシュボードの概要"
+    },
+    "wip-info-text": "このページは現在作成中です"
+  },
+  "date-format-validator-function": {
+    "message": "入力された値は、DD.MM.YYYYという形式の有効な日付ではありません。"
+  },
+  "date-not-in-the-past-validator-function": {
+    "message": "入力された日付が過去のものである"
+  },
+  "date-range-in-range-within-another-dates-validator-function": {
+    "message": "日付は別のサイクルの時間軸の中にある。"
+  },
+  "delete-dialog": {
+    "delete": "削除",
+    "general-do-you-want-to-delete": "本当に削除したいのか{{value}}？"
+  },
+  "demo-footer": {
+    "credits": "Credits",
+    "imprint": "Legal",
+    "privacy-policy": "個人情報保護方針"
+  },
+  "demo-home": {
+    "contact": {
+      "content": "Burning OKR Toolに関するご質問、ご意見、問題点はございませんか？ご連絡をお待ちしております。",
+      "content-with-link": "ツールに関するバグや改善提案がある場合は、<a href=\"https://github.com/BurningOKR/BurningOKR/issues/new/choose\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub</a> を介してご連絡ください。BROCKHAUS AGによるカスタマイズをご希望の場合、またはアドバイスやその他のサービスが必要な場合は、<a href=\"mailto:info@brockhaus-ag.de\">info@brockhaus-ag.de</a> からご連絡ください。",
+      "title": "連絡方法"
+    },
+    "digitalization": {
+      "content": "Burning OKRを使えば、OKRフレームワークの必須要素をすべてデジタルでマッピングし、チーム間の透明性を高めることができます。チームはBurning OKRで自分たちのObjectiveと主要な結果を管理し、その進捗と成功を可視化します。さらに、社内の階層もツール内で可視化することができます。",
+      "title": "OKRプロセス全体をデジタル化する"
+    },
+    "documentation": "ドキュメンテーション",
+    "features": {
+      "content": "当社のOKRツールは、OKRプロセスとその重要業績評価指標を、必要な機能をすべて含めて総合的にデジタル化することができます。詳細には、Burning OKRが提供する...",
+      "perks-list": "<li>Azure Active Directoryまたはローカルユーザー管理による認証</li>。\n        <li>複数社の管理（マルチテナント）</li>。\n        <li>サイクル、会社の構造、チーム、Objectiveおよび主要な結果のマッピング</li>。\n        <li>Objectiveおよび主要な結果に対する進捗状況指標</li>。\n        <li>チームの指定、Key Resultsの最大数の制限など、柔軟な個別化</li>。\n        <li>Excelスプレッドシートとしてのデータエクスポート</li>が可能です。",
+      "title": "革新的な機能"
+    },
+    "free-and-open-source": {
+      "content": "本アプリケーションは、法人・個人を問わず、完全無料でご利用いただけます。また、<a href=\"https://github.com/BurningOKR/BurningOKR\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub</a> でいつでもオープンソースコードを閲覧し、お客様のニーズに合わせて変更することができます。私たちは、このプロセスを喜んでお手伝いします。調整した内容は、プルリクエストとして全世界に公開しましょう！",
+      "title": "あなたのための無料オファー"
+    },
+    "further-information": {
+      "content": "OKRフレームワークの詳細については、<a href=\"https://www.brockhaus-ag.de/themen/AGILEVERSITY#themenAgileversity_accordionImage_okr\" target=\"_blank\" rel=\"noopener noreferrer\">AGILEVERSITY page of BROCKHAUS AG</a>でご覧いただけます。",
+      "title": "OKRフレームワークとOKRプロセスについて詳しく見る"
+    },
+    "github": "ギットハブ",
+    "installation": {
+      "content": "Burning OKRは様々なプラットフォームに簡単にインストールすることができます。私たちは、インストールに関するチュートリアルを提供し、...",
+      "list": "<li>Docker（ドッカー）</li>。\n<li>Tomcatウェブサーバー（近日公開予定）</li>。",
+      "title": "簡単な取り付け"
+    },
+    "playground": "遊び場",
+    "target-management": {
+      "content": "Objectives and Key Resultsは、サイクルで処理されます。サイクルの名称、長さ、内容はご希望に応じて設計してください。目標とKey Resultsの進捗表示により、OKRチームの生産性を俯瞰することができます。",
+      "title": "ビジネスゴールを管理・コントロールする"
+    },
+    "visions": {
+      "content": "アジャイルOKRフレームワークは、構造化された目標設定プロセスを通じて、戦略的なビジネス目標の達成をサポートします。短いサイクルと測定可能な目標は、結果の定期的な評価を促進し、新しい情報に基づいてビジネスモデルを迅速に修正する機会を提供します。Burning OKRでは、強力でユーザーフレンドリーなオープンソースツールを提供し、お客様をサポートします。",
+      "title": "OKRの力を借りてビジョンを実現する"
+    },
+    "welcome": {
+      "content": "Burning OKRは、戦略的な企業目標の達成をサポートし、アジャイルで透明な企業文化を促進します。オープンソースのOKRツールは、BROCKHAUS AGの長年にわたるOKRフレームワークの経験に基づいています。",
+      "title": "ようこそ、Burning OKRへ！"
+    }
+  },
+  "demo-imprint": "<div class=\"container footer-margin\">となります。\n  <h1>インプリント</h1>の場合\n\n  <h4>TMG第5条に基づく刻印:</h4>。\n\n  <div class=\"content-container\">となります。\n    <h4>BROCKHAUS AG</h4>のご紹介です。\n    ピアブッシュ 17<br>\n    44536 リューネン<br><br>\n    ドイツ<br>\n  </div>\n\n  <div class=\"content-container\">となります。\n    <h4>所在地 DORTMUND</h4>\n    Emil-Figge-Strasse 85<br>（英語）<br>。\n    44227 ドルトムント<br>\n    ドイツ<br>\n  </div>\n\n  <div class=\"content-container\">となります。\n    <h4>所在地 HAMBURG</h4>\n    Willy-Brandt-Strasse 23-25<br>（英語）<br>。\n    20457 ハンブルク<br>\n    ドイツ<br>\n  </div>\n\n\n  <div class=\"content-container\">となります。\n    <b>電話番号:</b> +49 (0) 231 98 75-0<br><br>\n    <b>ファックス:</b> +49 (0) 231 98 75-540<br> <b>ファックス:</b> +49 (0) 231 98 75-540<br><br> <b>ファックス\n    <b>Eメール：</b> info@brockhaus-ag.de<br>\n    <b>ウェブサイト：</b> www.brockhaus-ag.de<br>\n\n    <br>\n\n    <b>エグゼクティブ・ボード：</b> Matthias Besenfelder<br><br>\n    監査役会会長：アダム・シュパレク博士<br>。\n\n    <br>\n\n    <b>登録裁判所：</b> ドルトムント地方裁判所<br>。\n    <b>登録番号：</b> HRB 27027<br> <b>登録番号：</b> HRB 27027<br> <b>登録番号：</b> HRB 27027<br\n    <b>販売税識別番号：</b> DE 299350276<br> <b>販売税識別番号：</b> DE 299350276<br\n\n    <br>\n\n    <b>RStV§55に基づく内容の責任者：</b> Matthias Besenfelder<br>\n\n    <br>\n\n    <b>責任に関する注意事項：</b> コンテンツの管理には細心の注意を払っていますが、外部リンクの内容については、当社は一切の責任を負いません。リンク先のページの運営者は、その内容に関して全責任を負うものとします。\n  </div>\n\n</div>\n",
+  "demo-main-view": {
+    "playground": "遊び場"
+  },
+  "demo-warning": {
+    "abort-button": "キャンセル",
+    "database-deletion-text": "2時間ごとに、Demo Playgroundの全データが削除されます。そのためのカウントダウンが表示されます。",
+    "database-deletion-title": "データの削除",
+    "explanation": "あなたは今、バーニングOKRのデモの遊び場に入りました。",
+    "good-vibes-only-text": "Demo Playgroundでネガティブな内容を拡散しないようにお願いします。",
+    "good-vibes-only-title": "グッドバイブスオンリー（#GoodVibesOnly",
+    "headline": "ユーザー生成コンテンツ",
+    "playground-button": "ツム プレイグラウンド",
+    "title": "遊び場",
+    "user-generated-text": "Demo Playgroundに掲載されているすべてのコンテンツは、ユーザーが作成したものです。私たちはこのコンテンツに対して一切の責任を負いません。",
+    "user-generated-title": "ユーザー生成コンテンツ"
+  },
+  "department-description-edit-form": {
+    "edit-description": "説明文を編集する"
+  },
+  "department-tab-description": {
+    "beginning": "開始：",
+    "delimitation": "区切り：",
+    "dependencies": "依存関係：",
+    "description": "説明",
+    "edit-description": "説明を編集する",
+    "handover-plan": "引き渡し計画：",
+    "initiator": "イニシエーターです：",
+    "resources": "必要なリソース",
+    "stakeholder": "ステークホルダーです：",
+    "startteam": "ローンチチームです：",
+    "to": "オンで支払う：",
+    "tooltip": {
+      "no-edit-rights": "OKRマスターのみ説明文の編集が可能"
+    },
+    "topic": "トピック"
+  },
+  "department-tab-task-card": {
+    "delete": "削除",
+    "task-board-loading": "ローディング"
+  },
+  "department-tab-task-form": {
+    "assigned-user-ids": "エディター",
+    "description": "商品説明",
+    "dialog": {
+      "create": "生み出す",
+      "edit": "エディット",
+      "title": "タスク{{editOrCreateText}}。"
+    },
+    "no-parent-key-result": "オーバーライドなし Key Results",
+    "revisions": {
+      "date": "日付",
+      "field": "フィールド",
+      "fields": {
+        "assignedKeyResult": "主な成果",
+        "assignedUserIds": "エディター",
+        "description": "商品説明",
+        "taskState": "ステータス",
+        "title": "タイトル"
+      },
+      "new-value": "新しい価値",
+      "old-value": "古い価値",
+      "user": "ユーザー"
+    },
+    "select-parent-key-result": "親を選択する Key Result",
+    "task-state": "ステータス",
+    "title": "タイトル"
+  },
+  "department-tab-taskboard": {
+    "add-button": {
+      "create-new-task": "タスクを作成する",
+      "tooltip": "WebSocket接続ができない"
+    },
+    "deletion-dialog": {
+      "button-text": "削除",
+      "message": "タスク「{{title}}」は、本当に削除すべきなのでしょうか？",
+      "title": "タスクの削除"
+    },
+    "task-board-headline": "タスク",
+    "websocket-not-connected": "Websocket接続を作成できませんでした。現在、変更は受け付けていません。"
+  },
+  "department-tab-team": {
+    "define-o-k-r-master": "OKRマスターが定義されていない",
+    "define-topic-sponsor": "OKRテーマスポンサーが決まっていない",
+    "deletion-dialog": {
+      "button-text": "削除",
+      "message": "するのでしょうか？このユーザーは、このチームのマネージャー権限を失います。",
+      "message-member": "このメンバーをチームから外したいですか？このユーザーは、このチームでのメンバーシップ権を失います。",
+      "title-master": "OKRテーマスポンサーの削除",
+      "title-member": "メンバー削除",
+      "title-sponsor": "OKRマスターの削除"
+    },
+    "members-of-unit": "この構造のメンバー",
+    "no-members-defined": "チームメンバーの定義がない",
+    "o-k-r-master": "OKRマスター",
+    "o-k-r-topic-sponsor": "OKRテーマスポンサー",
+    "placeholder": {
+      "member": "新メンバーの追加",
+      "okr-master": "OKRマスターの追加",
+      "topic-sponsor": "テーマスポンサーの追加"
+    },
+    "team-member": "チームメンバー"
+  },
+  "dialog-component": {
+    "cancel": "キャンセル",
+    "date-range-within-another-date-range": "開始日および終了日は、他のサイクル範囲と重複してはならない。",
+    "save": "セーブ",
+    "start-date-not-before-end-date": "開始日は終了日よりも前であってはならない。",
+    "start-equals-end": "開始値は目標値と等しくしてはならない。"
+  },
+  "disabled-in-demo-version": "⚠ 体験版では無効化されています。",
+  "error": {
+    "error-id": "エラーIDです：",
+    "error-list": "エラーリスト",
+    "tooltip": {
+      "go-to-okr-unit-overview": "構造概要へ",
+      "navigate-to-previous": "前のページに戻る"
+    }
+  },
+  "feedback-button": {
+    "button-icon": {
+      "tooltip": "フィードバック"
+    },
+    "successful-send": {
+      "message": "フィードバックが正常に送信されました📬。"
+    }
+  },
+  "feedback-form": {
+    "dialog": {
+      "save-button": "フィードバックがない",
+      "title": "フィードバックをする"
+    },
+    "form-field": {
+      "feedback": "フィードバック",
+      "name": "名称"
+    }
+  },
+  "import-csv-dialog": {
+    "amount-of-entries-loaded": "エントリーが読み込まれました。",
+    "confirmation": {
+      "text": "この操作により、すべての{{list_length}}が追加されます。ユーザーを追加する。",
+      "title": "{{list_length}}ユーザーを作成します。"
+    },
+    "csv-file": "CSVファイル",
+    "department": "部門",
+    "description": "本機能により、CSVファイルによるユーザーのインポートが可能になります。CSVファイルは、次の順序でユーザーデータを提供する必要があります：姓、名、Eメール、役職、部署。",
+    "duplicate-email-adresses-warning": "このレコードには、重複した電子メールアドレスが存在します。",
+    "email": "電子メール",
+    "job-title": "役職名",
+    "name": "名称",
+    "to-many-entries-warning": "少なくとも1つのエントリーはカラム数が多すぎる。"
+  },
+  "key-result-form": {
+    "amount-units": "番号",
+    "current": "カレント",
+    "description": "商品説明",
+    "dialog": {
+      "create": "生み出す",
+      "edit": "エディット"
+    },
+    "key-result": "主な成果",
+    "start": "スタート",
+    "target": "デスティネーション",
+    "unit": "単位"
+  },
+  "key-result-milestone-form": {
+    "add-button": "マイルストーンを追加する",
+    "name-*": "名称",
+    "toggle": "マイルストーン・アクティブ",
+    "tooltip": {
+      "delete-button": "マイルストーンの削除"
+    },
+    "value-input": "目標値"
+  },
+  "keyresult": {
+    "deletion-dialog": {
+      "button-text": "Delete KeyResult",
+      "message": "KeyResult {{number}} です。Objectiveから{{keyResultTitle}}を削除しますか？",
+      "title": "削除"
+    },
+    "menu": {
+      "edit-key-result": "KeyResultを編集する",
+      "keyresult": "Delete KeyResult",
+      "move-key-result-down": "KeyResultを下に移動させる",
+      "move-key-result-up": "KeyResultを上に移動させる"
+    },
+    "tooltip": {
+      "adjust-progress": "アダプトプログレス",
+      "comments-for-this-key-result": "このKeyResultに対するコメント",
+      "more-options": "このKeyResultのその他のオプション"
+    }
+  },
+  "language-picker": {
+    "language": {
+      "english": "英語",
+      "german": "ドイツ語",
+      "japanese": "日本語"
+    },
+    "select-trigger-text": "言語を選択する"
+  },
+  "login": {
+    "button": "パスワードを忘れた",
+    "caps-lock-on": "Caps Lockキーが有効になっている",
+    "email": "電子メール",
+    "error-invalid-grant": "パスワードまたはユーザー名が無効",
+    "error-unauthorized": "ユーザー名が見つかりません",
+    "password": "パスワート"
+  },
+  "logout": {
+    "logged-out": "ログアウトに成功しました。",
+    "redirect": "すぐに転送されます。"
+  },
+  "main-view": {
+    "navigation-sidebar": {
+      "cycle-not-started": "このサイクルはまだ始まっていないので、準備の段階で取り組むことができます。",
+      "cycle-started": "このサイクルはすでに終了しているため、編集は限られた範囲でのみ可能です。"
+    },
+    "tooltip": {
+      "adjust-cycleperiod": "観察期間の調整",
+      "go-to-structure-view": "構造概要へ",
+      "toogle-navigvation": "ナビゲーションメニューの表示／非表示"
+    }
+  },
+  "max-length-validator": {
+    "message": "最大文字数を超えている"
+  },
+  "navigation-list-entry": {
+    "tooltip": {
+      "is-substructure": "これは、下位構造",
+      "is-team": "これは、チーム",
+      "you-are-manager": "この構造のマネージャーはあなたです",
+      "you-are-member": "あなたはこの構造のメンバーです"
+    }
+  },
+  "no-mail-information": {
+    "a-a-d": "ユーザー管理にAzure Active Directoryを使用している場合、以下の機能は使用できません：",
+    "back-to-home": "トップページに戻る",
+    "create-user-mails": "ユーザー作成のためのメール送信",
+    "feedback": "フィードバックの送信",
+    "info": "これは、アプリケーションの使い勝手を大きく制限することになります。",
+    "local": "ユーザー管理にBurningOKRのローカルユーザーデータベースを使用している場合、以下の機能は使用できません：",
+    "no-smtp": "SMTPが設定されていない",
+    "password-reset-mails": "パスワード再設定のためのメール送信",
+    "title": "SMTPコンフィギュレーションが見つかりませんでした。",
+    "tooltip": {
+      "go-to-okr-unit-overview": "構造概要へ"
+    }
+  },
+  "objective": {
+    "deletion-dialog": {
+      "button-text": "削除",
+      "message": "Objective{{number}}です。{{objectiveTitle}} ?",
+      "title": "Objective削除"
+    },
+    "menu": {
+      "comment-objective": "Objectiveのコメント",
+      "delete-objective": "Objective削除",
+      "disable-objective": "対象を非アクティブに設定する",
+      "edit-objective": "Objective編集",
+      "enable-objective": "Objectiveをアクティブに設定する",
+      "move-down-objective": "Objectiveを下に移動する",
+      "move-up-objective": "Objectiveを上に移動する"
+    },
+    "objective-isnt-active": "このObjectiveはアクティブではありません",
+    "tooltip": {
+      "bad-progress": "Objectiveの進捗が悪い",
+      "expand-objective": "オープンオブジェクティブ",
+      "good-progress": "Objectiveは順調に進んでいる",
+      "progress-can-be-better": "進捗状況を改善することを目的とした",
+      "subordinate": {
+        "": "下位のObjectiveの数"
+      }
+    }
+  },
+  "objective-contents": {
+    "define-new-key-result": "KeyResultの作成",
+    "key-results": "KeyResults",
+    "load-key-results": "Load KeyResults...",
+    "no-key-result-found": "このObjectiveに対するKeyResultsはまだありません。",
+    "parent-objective": "上位Objective",
+    "tooltip": {
+      "navigate-to-unit": "Objectiveの構造について"
+    }
+  },
+  "objective-form": {
+    "annotation": "備考",
+    "contact-person": "連絡先",
+    "description": "商品説明",
+    "dialog": {
+      "create": "作成",
+      "edit": "編集",
+      "title": "Objective：{{editOrCreateText}}。"
+    },
+    "no-contact-person": "担当者なし",
+    "no-parent-objective": "最優先のObjectiveはない",
+    "objective-is-active-in-process": "対象は現在のサイクルで積極的に処理されています",
+    "select-parent-objective": "親Objectiveを選択する"
+  },
+  "okr-child-unit": {
+    "deletion-dialog": {
+      "button-text": "削除",
+      "message": "下位のObjective、KeyResults、コメントもすべて削除されます。",
+      "title": "{{value}}を削除しますか？"
+    },
+    "description": "商品説明",
+    "empty-label": "-",
+    "error-info-label": "インフォメーション",
+    "load-department": "レード部",
+    "load-department-failed": "読み込みに失敗しました",
+    "load-department-failed-button": "次の上位構造へ",
+    "load-department-failed-info-text": "構造体を読み込むことができませんでした。他のユーザーによって削除されたか、サーバーが応答していない可能性があります。",
+    "loading": "ラデ...",
+    "menu": {
+      "contacts": "連絡先をエクスポートする",
+      "delete-unit": "構造体を削除する",
+      "disable-unit": "構造を非アクティブに設定する",
+      "editchild-unit": "構造を編集する",
+      "enable-unit": "構造をアクティブに設定する",
+      "export": "輸出"
+    },
+    "overview": "概要",
+    "please-wait": "お待ちください",
+    "substructures": "下位構造",
+    "task-board-headline": "タスク",
+    "team-member": "チームメンバー",
+    "tooltip": {
+      "cannot-delete-unit": "下位構造があるため削除できません！",
+      "more-options": "この構造のオプションを増やす"
+    },
+    "unit-not-active": "この構造はアクティブではありません"
+  },
+  "okr-child-unit-form": {
+    "description": "ラベル",
+    "dialog": {
+      "create": "{{label}} 作成",
+      "edit": "{{label}} 編集"
+    },
+    "header": "アクティブ",
+    "name-*": "名称"
+  },
+  "okr-child-unit-overview-tab": {
+    "create-new-objective": "Objectiveを作成する",
+    "load-objective": "Objectiveをロード中...",
+    "no-objectives": "この構造には、まだObjectiveがありません。"
+  },
+  "okr-child-unit-preview-button": {
+    "load": "ラード",
+    "tooltip": {
+      "list-child-unit": "この構造体のサブ構造体",
+      "list-objectives": "構造のObjective",
+      "not-active": "このOKRはアクティブではありません",
+      "show-department": "構造を表示する"
+    }
+  },
+  "okr-child-unit-tab": {
+    "no-child-unit": "この構造体のサブ構造はまだありません",
+    "substructures": "下位構造"
+  },
+  "okr-toolbar": {
+    "admin-icon": {
+      "tooltip": {
+        "is-admin": "管理者として認可される"
+      }
+    },
+    "main-page": "メインページ",
+    "menu": {
+      "admin-panel-text": "管理画面",
+      "change-password-text": "パスワードの変更",
+      "cycle-administration-text": "サイクルマネジメント",
+      "dashboard-overview": "ダッシュボードの概要",
+      "language-picker": "言語を選択する",
+      "logout-text": "ログアウト",
+      "settings-text": "設定方法",
+      "topic-drafts-text": "ドラフトトピック",
+      "user-managment-text": "ユーザー管理"
+    },
+    "return-to-demo-text": "メインページ",
+    "tooltip": {
+      "menue": "メニュー"
+    },
+    "warning": {
+      "no-smtp-link": "これは、<br class=\"hidden-l-up\">アプリケーションの使い勝手を大きく制限することになります。",
+      "no-smtp-text": "警告：SMTPサーバーが設定されていません。"
+    }
+  },
+  "okr-topic-description-form": {
+    "beginning": "スタート",
+    "contributes-to": "ペイジーオンオン",
+    "delimitation": "デリミテーション",
+    "dependencies": "依存関係",
+    "description": "商品説明",
+    "handover-plan": "引渡し計画",
+    "header": "トピック",
+    "initiator": "イニシエーター",
+    "no-initiator": "イニシエーターなし",
+    "resources": "必要なリソース",
+    "stakeholder": "ステークホルダー",
+    "start-team": "スタートチーム"
+  },
+  "okr-unit-card": {
+    "delete-company-has-child-unit-warning": "{{value}} まだ部分構造を含んでいます。",
+    "general-delete-dialog-title": "削除{{value}}？",
+    "label": "会社を削除する",
+    "mat-card-actions": {
+      "delete": "構造体を削除する",
+      "edit-name": "名前を編集する",
+      "tooltip": {
+        "delete-unit": "構造体を削除する",
+        "edit-unit-name": "構造体の名称を編集する"
+      }
+    },
+    "mat-card-subtitle": {
+      "unit-structure": "会社組織"
+    }
+  },
+  "okr-unit-dashboard": {
+    "add-unit": "構造を追加する",
+    "okr-toolbar": {
+      "unit-overview": "構造概要"
+    }
+  },
+  "okr-unit-form": {
+    "create": "作成する{{value}}。",
+    "default-label": {
+      "structure": "下位構造",
+      "team": "OKRチーム"
+    },
+    "placeholder": {
+      "label": "ラベル",
+      "name": "名称"
+    },
+    "save": "{{value}} 保存",
+    "structure": "構造"
+  },
+  "password-form": {
+    "caps-lock-on": "Caps Lockキーが有効になっている",
+    "error-message-previous-password-required": "前回のパスワードの入力が必要です。",
+    "error-message-previous-password-wrong": "前回のパスワードが誤って入力された。",
+    "new-password": "新パスワード",
+    "new-password-invalid": "パスワードは7文字以上である必要があります",
+    "new-password-repetition": "新しいパスワードを繰り返し入力する",
+    "passwords-do-not-match": "入力が一致しない。",
+    "previous-password": "前のパスワード"
+  },
+  "passwords-match-validator-function": {
+    "message": "パスワードが一致しない。"
+  },
+  "required-validator": {
+    "message": "必須項目"
+  },
+  "reset-countdown": {
+    "until-next": "でデータをリセットします："
+  },
+  "reset-password": {
+    "email": "電子メール",
+    "error-invalid-email": "無効な電子メール",
+    "password-reset-email-has-been-send-out": "ご登録いただいたメールアドレスに、パスワード再設定のためのメールを送信しました。",
+    "password-reset-title": "Burning OKR - Reset Password",
+    "reset-password": "パスワードの再設定"
+  },
+  "set-azure-admin-init-state-form": {
+    "other-user-notice": "他のユーザーを初期管理者に設定したい場合は、そのユーザーのアカウントでログインしてください。",
+    "set-admin-button": "このユーザーを管理者に設定する",
+    "set-admin-logout-button": "ログアウト",
+    "set-azure-admin-subtitle": "初期管理者として、以下のユーザーを設定します。",
+    "set-azure-admin-title": "セットアドミニストレータ"
+  },
+  "set-oauth-client-details-form": {
+    "access-token-validity": "アクセストークンの有効期限（単位：秒）",
+    "client-id": "クライアント-ID",
+    "client-secret": "クライアントシークレット（32文字以上を推奨します。）",
+    "explanation": "Local User Databaseを使用するためには、OAuthの設定が必要です。Client IDとClient Secretがユニークであることが重要です。すべてのフォームフィールドには、すでに意味のあるデータが入力されており、このデータを変更することは、上級ユーザーにのみ推奨されます。",
+    "next": "さらに",
+    "only-do-this-if-you-are-a-nerd-warning": "フォームをアクティブにする。上級者のみにお勧めします！",
+    "please-hang-on-the-server-is-beeing-configured": "サーバーの設定中ですので、しばらくお待ちください。",
+    "refresh-token-validity": "リフレッシュトークンの有効期限（単位：秒）",
+    "timeout": {
+      "error-message": "サーバーの設定に時間がかかりすぎました。サーバーを確認し、ページを再読み込みしてください。",
+      "error-message-action": "オッケー"
+    },
+    "title": "認証の設定",
+    "web-server-redirect-uri": "ウェブサーバ・リダイレクト・URI"
+  },
+  "set-password": {
+    "new-password": "新パスワード",
+    "new-password-invalid": "パスワードは7文字以上である必要があります",
+    "new-password-repetition": "新しいパスワードを繰り返し入力する",
+    "password-changed-message": "パスワードの変更に成功しました✅。",
+    "passwords-do-not-match": "入力が一致しない。",
+    "reset-password": "パスワードの再設定",
+    "set-new-password-instruction": "新しいパスワードを設定する",
+    "toolbar-title": "Burning OKR - パスワードの変更"
+  },
+  "settings-form": {
+    "admin-settings": "アドミンアドミニストレーション",
+    "cancel-button-text": "キャンセル",
+    "save": "セーブ",
+    "settings": "設定方法"
+  },
+  "start-date-before-end-date-validator-function": {
+    "message": "開始日が終了日以降である"
+  },
+  "start-not-equal-end-validator-function": {
+    "message": "開始日が終了日以降である"
+  },
+  "status-dot": {
+    "approved": "承認済み",
+    "draft": "ドラフト",
+    "rejected": "不採用",
+    "submitted": "提出された"
+  },
+  "task-board-swimlane-view-helper": {
+    "no-keyresult-title": "KeyResultなし"
+  },
+  "taskboard-state-column-view": {
+    "default-state-text": "割り当てられていない"
+  },
+  "topic-draft-action-button": {
+    "admin-initiator-tooltip": "投稿・撤回は管理者または開始者のみが可能です",
+    "approving-status-and-user": "ステータスは \"Submitted \"でなければならず、管理者または監査人のみが承認または拒否することができます。",
+    "capitalised-approve": "承認する",
+    "capitalized-reject": "減少",
+    "capitalized-submit": "送信",
+    "comments": {
+      "heading": "ドラフトテーマ"
+    },
+    "comments-text": "コメント",
+    "create-team": "チームへの変換",
+    "delete": {
+      "button-text": "削除",
+      "message": "トピックドラフト{{name}}を本当に削除したいですか？",
+      "title": "ドラフトテーマの削除"
+    },
+    "delete-text": "削除",
+    "edit": "編集部",
+    "edit-tooltip": {
+      "status": "ステータスが \"Submitted \"または \"Submission \"である必要があります。",
+      "status-and-user": "ステータスは \"Submitted \"または \"Submission \"でなければならず、管理者または開始者のみが編集できる",
+      "user": "を編集できるのは、管理者またはイニシエーターのみです。"
+    },
+    "no-permission": "管理者または監査人のみが承認または拒否することができます。",
+    "not-approved": "テーマ案が承認されない",
+    "snackbar": {
+      "ok": "オッケー",
+      "submit": "あなたのドラフトトピックがレビューのために送信されました。"
+    },
+    "state-submitted-tooltip": "ステータスが「提出済み」であること",
+    "status-submitted": "投稿の取り下げには、ステータスが「投稿済み」であることが必要です",
+    "status-submitted-user": "ステータスが「投稿」であり、管理者または投稿の開始者であることが、投稿の撤回に必要です。",
+    "tooltip": {
+      "feature-coming-soon": "特集は近日公開予定",
+      "header": "コメント",
+      "only-admin-or-initiator-permission-to-delete": "このドラフトトピックを削除できるのは、管理者または開始者のみです。"
+    },
+    "user-not-admin": "管理者権限が必要",
+    "withdraw-approval": "承認の取り消し",
+    "withdraw-rejection": "リジェクトを撤回する",
+    "withdraw-submit": "出稿を取りやめる"
+  },
+  "topic-draft-creation-form": {
+    "dialog-title": "ドラフトテーマの作成"
+  },
+  "topic-draft-details-dialogue": {
+    "button": {
+      "close": "閉じる",
+      "edit": "編集部",
+      "tooltip-no-permission": "下書きトピックを編集できるのは、下書きトピックの開始者または管理者のみです。編集するためには、その草稿トピックが受理または拒否されていない必要があります。"
+    },
+    "field": {
+      "begin": "スタート",
+      "contribution": "で支払う。",
+      "delimitation": "デリミテーション",
+      "dependencies": "依存関係",
+      "description": "商品説明",
+      "handover": "引渡し計画",
+      "initiator": "イニシエーター",
+      "no-team-members": "チームメンバーがいない",
+      "resources": "リソース",
+      "stakeholder-team": "ステークホルダー・チーム",
+      "start-team": "スタートチーム",
+      "topic": "トピック"
+    },
+    "status": {
+      "approved": "アクセプタブル",
+      "rejected": "不採用",
+      "submitted": "提出された",
+      "template": "テンプレート",
+      "title": "ステータス"
+    },
+    "title": "提出されたテーマ案"
+  },
+  "topic-draft-edit-dialogue": {
+    "title": "ドラフトトピックを編集する"
+  },
+  "topic-draft-list": {
+    "column": {
+      "name": "名称",
+      "start": "スタート",
+      "submitted": "投稿者"
+    },
+    "no-new-topic-drafts": "新ドラフトテーマなし"
+  },
+  "topic-drafts": {
+    "add-topic-draft-button": "ドラフトテーマの作成",
+    "home-button": {
+      "tooltip": "構造概要へ"
+    },
+    "initiator-table-header": "トピック",
+    "navbar": {
+      "title": "テーマ案の提出",
+      "title-short": "テーマ（案"
+    }
+  },
+  "user-autocomplete-input": {
+    "label": "ユーザー入力"
+  },
+  "user-dialog": {
+    "reset-password": "パスワードの再設定",
+    "snackbar": {
+      "message": "パスワードのリセットに成功しました。",
+      "ok": "オッケー"
+    }
+  },
+  "user-form": {
+    "department": "部門",
+    "email": "電子メール",
+    "error-invalid-email": "無効な電子メール",
+    "error-used-email": "このメールは、すでに他のユーザーが使用しています。",
+    "first-name": "氏名（ふりがな",
+    "job-title": "役職名",
+    "last-name": "ラストネーム"
+  },
+  "user-management": {
+    "active-table-header": "アクティブ",
+    "add-new-user": "ユーザー作成",
+    "admin-table-header": "アドミン",
+    "checkbox": "無効化されたユーザーを表示する",
+    "department-table-header": "部門",
+    "email": "電子メール",
+    "import-users": "インポートユーザー",
+    "job-title-table-header": "役職名",
+    "name": "名称",
+    "tooltip": {
+      "activate-user": "ユーザーの活性化",
+      "deactivate-user": "ユーザーの無効化",
+      "edit-user": "ユーザーを編集する",
+      "go-to-okr-unit-overview": "構造概要へ",
+      "import-users-from-csv": "CSVからユーザーを取り込む"
+    },
+    "user-management-toolbar-title": "ユーザー管理"
+  },
+  "user-minibutton": {
+    "loading-user": "ロードユーザー...",
+    "tooltip": {
+      "remove-member": "チームからユーザーを削除する"
+    }
+  },
+  "user-selector": {
+    "no-entries": "ユーザーが見つかりませんでした。",
+    "placeholder": "検索"
+  },
+  "user-selector-multi": {
+    "no-entires": "ユーザーが見つかりませんでした。",
+    "placeholder": "検索"
+  },
+  "user-settings": {
+    "default-company": "スタンダードカンパニー",
+    "default-team": "スタンダードチーム",
+    "no-company": "ノーカンパニー",
+    "no-team": "チームなし"
+  },
+  "validation-error": {
+    "default-error-message": "有効な値ではありません。"
+  },
+  "version-form": {
+    "change-log": "バージョンアップのお知らせ",
+    "close": "閉じる"
+  }
 }
