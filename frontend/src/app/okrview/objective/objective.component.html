@@ -51,7 +51,7 @@
       </div>
 
       <div *ngIf="hasSubObjectives()" class="icon-spacer-large f-05"
-           matTooltip="{{ 'objective.tooltip.subordinate.' | translate }}">
+           matTooltip="{{ 'objective.tooltip.subordinate' | translate }}">
         <button (click)="$event.stopPropagation()" [matMenuTriggerData]="{ objective: objective }"
                 [matMenuTriggerFor]="childMenu" class="icon-spacer" mat-icon-button>
           {{ objective.subObjectivesCount }}

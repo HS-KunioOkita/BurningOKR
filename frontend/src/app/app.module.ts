@@ -3,8 +3,10 @@ import { registerLocaleData } from '@angular/common';
 import { HTTP_INTERCEPTORS, HttpClient, HttpClientModule } from '@angular/common/http';
 import localeDe from '@angular/common/locales/de';
 import localeEn from '@angular/common/locales/en';
+import localeJa from '@angular/common/locales/ja';
 import localeDeExtra from '@angular/common/locales/extra/de';
 import localeEnExtra from '@angular/common/locales/extra/en';
+import localeJaExtra from '@angular/common/locales/extra/ja';
 import { LOCALE_ID, NgModule } from '@angular/core';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import {
@@ -60,6 +62,7 @@ import { AvatarModule } from 'ngx-avatars';
 
 registerLocaleData(localeEn, 'en', localeEnExtra);
 registerLocaleData(localeDe, 'de', localeDeExtra);
+registerLocaleData(localeJa, 'ja', localeJaExtra);
 
 const currentLanguage: string = 'de';
 
